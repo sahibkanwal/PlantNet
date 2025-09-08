@@ -9,8 +9,6 @@ Corn is one of Ontario’s most important crops, but diseases like **Common Rust
 PlantNet uses **convolutional neural networks (CNNs)** to recognize these patterns, supporting farmers with faster and more reliable disease detection in the field.  
 
 <img width="1730" height="595" alt="image" src="https://github.com/user-attachments/assets/ed241946-e6cb-43d9-a8c7-a0b5ebf4caca" />
-<img width="959" height="444" alt="image" src="https://github.com/user-attachments/assets/7e7d6af1-662d-4b8d-9f18-9e48e0be63ac" />
-
 
 ---
 
@@ -38,7 +36,9 @@ PlantNet uses **convolutional neural networks (CNNs)** to recognize these patter
   - Learning Rate: 0.001  
   - Batch Size: 64  
   - Epochs: 50  
-- **Framework**: PyTorch  
+- **Framework**: PyTorch
+  
+<img width="959" height="444" alt="image" src="https://github.com/user-attachments/assets/7e7d6af1-662d-4b8d-9f18-9e48e0be63ac" />
 
 ---
 
