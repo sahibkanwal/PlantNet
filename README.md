@@ -75,10 +75,10 @@ While PlantNet shows strong accuracy, false positives and false negatives can st
 ---
 
 ## 📌 References  
-- Hughes & Salathé, 2015 – PlantVillage Dataset  
-- Singh et al., 2020 – PlantDoc Dataset  
-- Ahmad et al., 2021 – CD&S Dataset  
-- Lei et al., 2025 – IDADP Dataset  
-- Mohanty et al., 2016 – Early CNNs for Plant Disease Detection  
-- Ferentinos, 2018 – Deep Learning for Crop Diseases  
-- Li et al., 2024 – Lightweight YOLOv8s for Corn Disease  
+- Hughes & Salathé, 2015 – PlantVillage Dataset.  
+- Singh et al., 2020 – PlantDoc Dataset. 
+- Ahmad et al., 2021 – CD&S Dataset.  
+- Lei et al., 2025 – IDADP Dataset.  
+- Mohanty et al., 2016 – Early CNNs for Plant Disease Detection.  
+- Ferentinos, 2018 – Deep Learning for Crop Diseases.  
+- Li et al., 2024 – Lightweight YOLOv8s for Corn Disease.   
