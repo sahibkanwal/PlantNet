@@ -1,6 +1,8 @@
 # PlantNet 🌽  
 Corn Crop Disease Classifier – APS360 Project (University of Toronto)  
 
+> **Note:** This repository documents the project only. **Source code is not included** per course policy.
+
 ## 📖 Overview  
 PlantNet is a deep learning project developed for **APS360: Applied Fundamentals of Deep Learning** at the University of Toronto.  
 
